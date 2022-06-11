@@ -21,3 +21,4 @@ elif edad < 0:
     print("Ni que fueras viejro del tiempo")
 else :
     print("no puedes llevarte los cigarros")
+#En python no hay Swtch case:
